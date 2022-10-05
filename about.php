@@ -38,7 +38,7 @@
         </div>
         <div class="row mt-5">
             <div class="col-5">
-                <img src="img/4318588.jpg" class="img-thumbnail" alt="...">
+                <img src="img/8619-removebg-preview.png" class="img-thumbnail" alt="...">
             </div>
             <div class="col-7">
                 <br><br>
